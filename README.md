@@ -47,4 +47,4 @@ Run the index.html file
 
 ---
 
-![QuickTasks Screenshot](project.png)
+![QuickTasks Screenshot](termproject.png)
