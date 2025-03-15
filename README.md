@@ -46,3 +46,5 @@ uvicorn main:app --reload
 Run the index.html file
 
 ---
+
+![QuickTasks Screenshot](project.png)
